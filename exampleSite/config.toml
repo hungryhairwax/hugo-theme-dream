@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://georgeskitchen.netlify.app"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Hugo Theme Dream"
